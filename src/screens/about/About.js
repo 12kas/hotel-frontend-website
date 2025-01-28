@@ -17,7 +17,7 @@ const About = () => {
                     <div class="welcome-msg ">
                         <h1> About SNG Hotels </h1>
                         <p>
-                            SNG Hotels, is an Indian hospitality chain of leased and franchised hotels, homes and living spaces.
+                            _________, is an Indian hospitality chain of leased and franchised hotels, homes and living spaces.
                             Founded in 2020 by Vineet Kumar, SNG initially consisted mainly of budget hotels. The startup expanded
                             globally with thousands of hotels, vacation homes and millions of rooms in India, Malaysia, UAE, Nepal, China,
                             Brazil, Mexico, UK, Philippines, Japan, Saudi Arabia, Sri Lanka, Indonesia, Vietnam, the United States and more.
